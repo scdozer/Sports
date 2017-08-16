@@ -1,0 +1,31 @@
+Day 1 Notes:
+
+Command Line:
+ls - list folders of current directory
+cd - change directory
+cd .. - up directory
+cd ~ - home directory
+cp -r path path - copy from one directory to next
+mkdir - new directory
+touch - new file
+
+rm -r git will delete files
+
+atom . - will open the file in atom
+
+
+
+GIT
+
+git init - initial commit
+
+git add
+git add . - adds all updated files
+
+git commit
+git push
+
+git commit -m "Notes"
+
+git remote add origin <link> - link your project with git hub. get link from repository
+git push origin master - push to the cloud

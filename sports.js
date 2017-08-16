@@ -1,1 +1,1 @@
-var teams = ['Bruins', 'Predators', 'Sharks'];
+consol.log('WE LOVE SPORTS!');
